@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Ruff
+.ruff_cache/
+
+# Environment files
+.env
+.env.*
+
+# IDE files
+.vscode/*.log
+.vscode/.ropeproject/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
