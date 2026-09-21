@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 
-app = FastAPI()
+app = FastAPI(
+    title="Git REST Lab 2",
+    version="1.0.0",
+)
 
 
 @app.get("/")
