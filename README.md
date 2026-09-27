@@ -32,3 +32,4 @@ Interactive Swagger documentation is available at [http://localhost:8000/docs](h
 
 - `GET /` returns a message confirming that the service is running.
 - `GET /health` returns the service health status.
+Commit changes new
